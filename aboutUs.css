@@ -12,8 +12,6 @@
 .half {
   flex: 1;
   padding: 10vh 2rem 2rem 2rem;
-
-  /* Align image, name, and paragraph */
   display: flex;
   flex-direction: column;
   align-items: center;
